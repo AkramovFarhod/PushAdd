@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54739206290",
+    "project_id": "gramfcm-333cc",
+    "storage_bucket": "gramfcm-333cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54739206290:android:51ab474f46c089042ca64b",
+        "android_client_info": {
+          "package_name": "com.example.gramfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54739206290-vtdj0h7stnkigevr3qf2pn1oikqdetkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlTiklQ4EXGgKMAw1QJoNhOE3lFT5-GCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54739206290-vtdj0h7stnkigevr3qf2pn1oikqdetkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
